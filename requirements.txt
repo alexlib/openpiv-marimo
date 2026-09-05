@@ -1,0 +1,5 @@
+marimo>=0.9
+numpy
+openpiv
+pivpy
+pillow
